@@ -1,0 +1,6 @@
+PARA CREAR LA BD:
+1- Configurar en el archivo "appsettings.json" el atributo DevConnection con la conexion propia de sql server
+2- ejecutar en la terminal de comando de Visual studio "update-database", en caso de ser positivo se crea la base de datos con la tabla correspondiente
+EJECUCION DEL PROYECTO
+1- Ejecutar la solucion del proyecto de FBCliente en VisualStudio para levantar el backend
+2- Para ejecutar el Frontend abrir VisualStudio Code y ejecutar desde el programa, o desde la terminal con el comando "ng serve -o"
